@@ -79,5 +79,5 @@ hospital-kosmos/
 
 ## ✍️ Autor
 
-**Oscar Alejandro Becerril Pérez**  
+**Oscar Becerril**  
 [LinkedIn](https://www.linkedin.com/in/osbep-160908265/)
